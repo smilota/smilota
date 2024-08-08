@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @smilota
+- 👀 I’m interested in software 
+- 🌱 I’m currently learning Software testing
